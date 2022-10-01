@@ -1,4 +1,4 @@
-![](https://camo.githubusercontent.com/563364ddc431f56cabb9c4ecf16bcd15f25d4d84794d4e48ebab81a5fc3e8142/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f74686f6c6d616e2e636f6d2f7374617469632d6173736574732f61736369692d6d6f7270682d64656d6f2e676966)(https://camo.githubusercontent.com/563364ddc431f56cabb9c4ecf16bcd15f25d4d84794d4e48ebab81a5fc3e8142/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f74686f6c6d616e2e636f6d2f7374617469632d6173736574732f61736369692d6d6f7270682d64656d6f2e676966)
+![](https://github.com/Abeey04/Abeey04/blob/main/header1.gif)
 <h1 align="center">Hi 👋, I'm Arpeet (a.k.a Abeey)</h1>
 <h3 align="center">yes, I am a student, currently Undergrad.</h3>
 <img align="right" alt="coding" src = "https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif">
