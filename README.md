@@ -1,5 +1,5 @@
 ![](https://github.com/Abeey04/Abeey04/blob/main/header1.gif)
-<h1 align="center">Hi 👋, I'm Arpeet (a.k.a Abeey)</h1>
+<h1 align="center">Hi 👋, I'm Arpeet </h1>
 <h3 align="center">yes, I am a student, currently Undergrad.</h3>
 <img align="right" alt="coding" src = "https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif">
 
