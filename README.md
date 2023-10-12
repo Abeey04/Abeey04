@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/arpeet_" target="blank"><img src="https://img.shields.io/twitter/follow/arpeet_?logo=twitter&style=for-the-badge" alt="arpeet_" /></a> </p>
 
-- 🌱 I’m currently learning **c++ and looking into frontend.**
+- 🌱 I’m currently learning **Tensorflow and looking into Deep Learning**
 
-- 💬 Ask me about **html, css, cpp**
+- 💬 Ask me about **Machine Learning, Python, Tensorflow,**
 
 - 📫 How to reach me **arpeetchandane4@gmail.com**
 
