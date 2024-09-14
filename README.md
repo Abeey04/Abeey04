@@ -1,30 +1,36 @@
-![](https://github.com/Abeey04/Abeey04/blob/main/header1.gif)
-<h1 align="center">Hi 👋, I'm Arpeet </h1>
-<h3 align="center">yes, I am a student, currently Undergrad.</h3>
-<img align="right" alt="coding" src = "https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif">
+# 🚀 AIML in Space Tech
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abeey04&label=Profile%20views&color=0e75b6&style=flat" alt="abeey04" /> </p>
+> Bridging the gap between Artificial Intelligence and the Final Frontier
 
-<p align="left"> <a href="https://twitter.com/arpeet_" target="blank"><img src="https://img.shields.io/twitter/follow/arpeet_?logo=twitter&style=for-the-badge" alt="arpeet_" /></a> </p>
+## 👨‍🚀 About Me
 
-- 🌱 I’m currently learning **Tensorflow and looking into Deep Learning**
+Dedicated Computer Science and Engineering student specializing in AIML, passionate about applying machine learning to space technology. Seeking research opportunities to contribute to the future of space exploration.
 
-- 💬 Ask me about **Machine Learning, Python, Tensorflow,**
+## 🛰️ Current Focus
 
-- 📫 How to reach me **arpeetchandane4@gmail.com**
+- Satellite image processing
+- Remote sensing analysis
+- AI-driven space exploration systems
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arpeet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpeet_" height="30" width="40" /></a>
-<a href="https://instagram.com/abeey_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abeey_04" height="30" width="40" /></a>
+## 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arpeet-chandane/)
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Open%20to%20Research%20Opportunities-brightgreen?style=for-the-badge" alt="Open to Research Opportunities">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abeey04&show_icons=true&locale=en&layout=compact" alt="abeey04" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeey04&show_icons=true&locale=en" alt="abeey04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abeey04&" alt="abeey04" /></p>
-
