@@ -22,7 +22,7 @@ Dedicated Computer Science and Engineering student specializing in AIML, passion
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abeey04&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect!
 
